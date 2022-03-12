@@ -1,0 +1,39 @@
+.greyBox{
+    
+    position: relative;
+    left: 20vw;
+    top: 0.7vh;
+    height: 160vh;
+    width: 15vw;
+    border: 2px solid black;
+    background: #f1f1f1;
+}
+
+.Apartment100{
+
+    position: relative;
+    left: 35.3vw;
+    top: -160vh;
+    height: 80vh;
+    width: 45vw;
+    border: 2px solid black;
+    background: #fff;
+}
+
+.Ahdg1{
+
+    color: rgb(76,175,80);
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.spaceBox1{
+
+    position: relative;
+    left: 35.3vw;
+    top: -160.6vh;
+    height: 80vh;
+    width: 45vw;
+    border: 2px solid black;
+    background: #fff;
+}
